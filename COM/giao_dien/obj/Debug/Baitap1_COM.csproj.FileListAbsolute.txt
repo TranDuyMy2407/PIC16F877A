@@ -1,0 +1,48 @@
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\bin\Debug\Baitap1_COM.exe.config
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.Properties.Resources.resources
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\bin\Debug\Baitap1_COM.exe
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\bin\Debug\Baitap1_COM.pdb
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.exe
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.pdb
+C:\Users\Admin\Desktop\Baitap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.Form1.resources
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\bin\Debug\Baitap1_COM.exe.config
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.exe
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.pdb
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\bin\Debug\Baitap1_COM.exe
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\bin\Debug\Baitap1_COM.pdb
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.csprojResolveAssemblyReference.cache
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.Form1.resources
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.Properties.Resources.resources
+F:\BaiTap1_COM\BaiTap1_COM\Baitap1_COM\obj\Debug\Baitap1_COM.csproj.GenerateResource.Cache
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\bin\Debug\Baitap1_COM.exe.config
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\obj\Debug\Baitap1_COM.exe
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\obj\Debug\Baitap1_COM.pdb
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\obj\Debug\Baitap1_COM.csprojResolveAssemblyReference.cache
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\obj\Debug\Baitap1_COM.Form1.resources
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\obj\Debug\Baitap1_COM.Properties.Resources.resources
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\obj\Debug\Baitap1_COM.csproj.GenerateResource.Cache
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\bin\Debug\Baitap1_COM.exe
+F:\baitap_ngoaivi\bai1_com\Baitap1_COM\bin\Debug\Baitap1_COM.pdb
+C:\Users\Admin\Desktop\bai1_com\Baitap1_COM\bin\Debug\Baitap1_COM.exe.config
+C:\Users\Admin\Desktop\bai1_com\Baitap1_COM\obj\Debug\Baitap1_COM.exe
+C:\Users\Admin\Desktop\bai1_com\Baitap1_COM\obj\Debug\Baitap1_COM.pdb
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\bin\Debug\Baitap1_COM.exe.config
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\obj\Debug\Baitap1_COM.exe
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\obj\Debug\Baitap1_COM.pdb
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\bin\Debug\Baitap1_COM.exe
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\bin\Debug\Baitap1_COM.pdb
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\obj\Debug\Baitap1_COM.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\obj\Debug\Baitap1_COM.Form1.resources
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\obj\Debug\Baitap1_COM.Properties.Resources.resources
+C:\Users\Admin\Desktop\bai1_com - Copy\Baitap1_COM\obj\Debug\Baitap1_COM.csproj.GenerateResource.Cache
+C:\Users\duymy\Desktop\bai1_com - Copy\Baitap1_COM\bin\Debug\Baitap1_COM.exe.config
+C:\Users\duymy\Desktop\bai1_com - Copy\Baitap1_COM\obj\Debug\Baitap1_COM.exe
+C:\Users\duymy\Desktop\bai1_com - Copy\Baitap1_COM\obj\Debug\Baitap1_COM.pdb
+C:\Users\duymy\Desktop\COM\giao_dien\COM_giao_dien\bin\Debug\Baitap1_COM.exe.config
+C:\Users\duymy\Desktop\COM\giao_dien\COM_giao_dien\obj\Debug\Baitap1_COM.exe
+C:\Users\duymy\Desktop\COM\giao_dien\COM_giao_dien\obj\Debug\Baitap1_COM.pdb
+C:\Users\duymy\Desktop\COM\giao_dien\bin\Debug\Baitap1_COM.exe.config
+C:\Users\duymy\Desktop\COM\giao_dien\obj\Debug\Baitap1_COM.exe
+C:\Users\duymy\Desktop\COM\giao_dien\obj\Debug\Baitap1_COM.pdb

@@ -1,0 +1,9 @@
+C:\Users\duymy\Desktop\COM\giao_dien\bin\Debug\Baitap1_COM.exe.config
+C:\Users\duymy\Desktop\COM\giao_dien\bin\Debug\Baitap1_COM.exe
+C:\Users\duymy\Desktop\COM\giao_dien\bin\Debug\Baitap1_COM.pdb
+C:\Users\duymy\Desktop\COM\giao_dien\obj\Debug\Baitap1_COM.Form1.resources
+C:\Users\duymy\Desktop\COM\giao_dien\obj\Debug\Baitap1_COM.Properties.Resources.resources
+C:\Users\duymy\Desktop\COM\giao_dien\obj\Debug\COM_giao_dien.csproj.GenerateResource.Cache
+C:\Users\duymy\Desktop\COM\giao_dien\obj\Debug\Baitap1_COM.exe
+C:\Users\duymy\Desktop\COM\giao_dien\obj\Debug\Baitap1_COM.pdb
+C:\Users\duymy\Desktop\COM\giao_dien\obj\Debug\COM_giao_dien.csprojResolveAssemblyReference.cache
