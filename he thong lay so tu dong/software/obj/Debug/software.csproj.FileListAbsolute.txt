@@ -1,0 +1,8 @@
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\bin\Debug\software.exe.config
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\bin\Debug\software.exe
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\bin\Debug\software.pdb
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\test.Form1.resources
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\software.Properties.Resources.resources
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\software.csproj.GenerateResource.Cache
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\software.exe
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\software.pdb

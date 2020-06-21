@@ -1,0 +1,67 @@
+[PROJECT]
+Target=service_1.hex
+Processor_Text=PIC16F887
+CCSVersion=5.025
+Compiler=PCM
+[Target Data]
+FileList=service_1.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[service_1.c]
+Type=4
+[mru-list]
+1=service_1.c
+[Opened Files]
+1=service_1.c
+2=..\service_2\service2.c
+3=..\ticket\ticket.c
+4=..\display\testmonitor.c
+5=
+
+[ProjectLog]
+Days=1
+D1=21-06-2020
+D1_L=36
+D1_L1=[3393]Project Opened.
+D1_L2=[3404]Started Editing.
+D1_L3=[3558]Stopped Editing.
+TotalEdit=23
+TotalDebug=0
+D1_E=23
+D1_D=0
+D1_L4=[3558]Project Closed.
+D1_L5=[4636]Project Opened.
+D1_L6=[4667]Started Editing.
+D1_L7=[4743]Stopped Editing.
+D1_L8=[4779]Started Editing.
+D1_L9=[5035]Stopped Editing.
+D1_L10=[5035]Project Closed.
+D1_L11=[32100]Project Opened.
+D1_L12=[32124]Started Editing.
+D1_L13=[32361]Stopped Editing.
+D1_L14=[32370]Started Editing.
+D1_L15=[32564]Stopped Editing.
+D1_L16=[32564]Project Closed.
+D1_L17=[32805]Project Opened.
+D1_L18=[32956]Started Editing.
+D1_L19=[32969]Stopped Editing.
+D1_L20=[32969]Project Closed.
+D1_L21=[34485]Project Opened.
+D1_L22=[34493]Started Editing.
+D1_L23=[34498]Stopped Editing.
+D1_L24=[34498]Project Closed.
+D1_L25=[35362]Project Opened.
+D1_L26=[35369]Project Closed.
+D1_L27=[36454]Project Opened.
+D1_L28=[36517]Started Editing.
+D1_L29=[36564]Stopped Editing.
+D1_L30=[36589]Started Editing.
+D1_L31=[36618]Stopped Editing.
+D1_L32=[36618]Project Closed.
+D1_L33=[36625]Project Opened.
+D1_L34=[36682]Started Editing.
+D1_L35=[36695]Stopped Editing.
+D1_L36=[36695]Project Closed.
+[Units]
+Count=1
+1=service_1 (main)

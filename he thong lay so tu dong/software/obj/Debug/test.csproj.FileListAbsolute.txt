@@ -1,0 +1,73 @@
+D:\My works\Do an\Simulation\software\test\bin\Debug\test.exe.config
+D:\My works\Do an\Simulation\software\test\bin\Debug\test.exe
+D:\My works\Do an\Simulation\software\test\bin\Debug\test.pdb
+D:\My works\Do an\Simulation\software\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\My works\Do an\Simulation\software\test\obj\Debug\test.Form1.resources
+D:\My works\Do an\Simulation\software\test\obj\Debug\test.Properties.Resources.resources
+D:\My works\Do an\Simulation\software\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\My works\Do an\Simulation\software\test\obj\Debug\test.exe
+D:\My works\Do an\Simulation\software\test\obj\Debug\test.pdb
+D:\My works\Do an\Goi SV 07-10\software\test\bin\Debug\test.exe.config
+D:\My works\Do an\Goi SV 07-10\software\test\obj\Debug\test.exe
+D:\My works\Do an\Goi SV 07-10\software\test\obj\Debug\test.pdb
+D:\My works\Do an\Goi SV 07-10\software\test\bin\Debug\test.exe
+D:\My works\Do an\Goi SV 07-10\software\test\bin\Debug\test.pdb
+D:\My works\Do an\Goi SV 07-10\software\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\My works\Do an\Goi SV 07-10\software\test\obj\Debug\test.Form1.resources
+D:\My works\Do an\Goi SV 07-10\software\test\obj\Debug\test.Properties.Resources.resources
+D:\My works\Do an\Goi SV 07-10\software\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\My works\Do an\Goi SV 21-10\services\software\test\bin\Debug\test.exe.config
+D:\My works\Do an\Goi SV 21-10\services\software\test\obj\Debug\test.exe
+D:\My works\Do an\Goi SV 21-10\services\software\test\obj\Debug\test.pdb
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\bin\Debug\test.exe.config
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\obj\Debug\test.exe
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\obj\Debug\test.pdb
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\bin\Debug\test.exe
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\bin\Debug\test.pdb
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\obj\Debug\test.Form1.resources
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\obj\Debug\test.Properties.Resources.resources
+D:\My works\Do an\Goi SV 21-10\srvs_monitor\software\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Duy My\Desktop\do_an\srvs_monitor\software\test\bin\Debug\test.exe.config
+C:\Users\Duy My\Desktop\do_an\srvs_monitor\software\test\bin\Debug\test.exe
+C:\Users\Duy My\Desktop\do_an\srvs_monitor\software\test\bin\Debug\test.pdb
+C:\Users\Duy My\Desktop\do_an\srvs_monitor\software\test\obj\Debug\test.Form1.resources
+C:\Users\Duy My\Desktop\do_an\srvs_monitor\software\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Duy My\Desktop\do_an\srvs_monitor\software\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Duy My\Desktop\do_an\srvs_monitor\software\test\obj\Debug\test.exe
+C:\Users\Duy My\Desktop\do_an\srvs_monitor\software\test\obj\Debug\test.pdb
+C:\Users\Duy My\Desktop\test_doan\software\test\bin\Debug\test.exe.config
+C:\Users\Duy My\Desktop\test_doan\software\test\bin\Debug\test.exe
+C:\Users\Duy My\Desktop\test_doan\software\test\bin\Debug\test.pdb
+C:\Users\Duy My\Desktop\test_doan\software\test\obj\Debug\test.Form1.resources
+C:\Users\Duy My\Desktop\test_doan\software\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Duy My\Desktop\test_doan\software\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Duy My\Desktop\test_doan\software\test\obj\Debug\test.exe
+C:\Users\Duy My\Desktop\test_doan\software\test\obj\Debug\test.pdb
+C:\Users\Duy My\Desktop\New folder\test_doan\software\test\bin\Debug\test.exe.config
+C:\Users\Duy My\Desktop\New folder\test_doan\software\test\obj\Debug\test.exe
+C:\Users\Duy My\Desktop\New folder\test_doan\software\test\obj\Debug\test.pdb
+C:\Users\Duy My\Desktop\New folder\test_doan\software\test\bin\Debug\test.exe
+C:\Users\Duy My\Desktop\New folder\test_doan\software\test\obj\Debug\test.Form1.resources
+C:\Users\Duy My\Desktop\New folder\test_doan\software\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Duy My\Desktop\New folder\test_doan\software\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Duy My\Desktop\New folder\test_doan\software\test\bin\Debug\test.pdb
+D:\Do an 2\test_doan\software\test\bin\Debug\test.exe.config
+D:\Do an 2\test_doan\software\test\obj\Debug\test.exe
+D:\Do an 2\test_doan\software\test\obj\Debug\test.pdb
+D:\Do an 2\test_doan\software\test\bin\Debug\test.exe
+D:\Do an 2\test_doan\software\test\bin\Debug\test.pdb
+D:\Do an 2\test_doan\software\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Do an 2\test_doan\software\test\obj\Debug\test.Form1.resources
+D:\Do an 2\test_doan\software\test\obj\Debug\test.Properties.Resources.resources
+D:\Do an 2\test_doan\software\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\bin\Debug\test.exe.config
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\test.exe
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\test.pdb
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\bin\Debug\test.exe
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\bin\Debug\test.pdb
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\test.Form1.resources
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\test.Properties.Resources.resources
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\obj\Debug\test.csproj.GenerateResource.Cache
+D:\DATA\src_git\Do an 2\he thong lay so tu dong\software\bin\Debug\software.exe.config

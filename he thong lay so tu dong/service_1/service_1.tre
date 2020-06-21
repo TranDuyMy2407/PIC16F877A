@@ -1,0 +1,21 @@
+ÀÄservice_1
+   ÀÄMAIN  0/91  Ram=0
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄdisplay  0/166  Ram=4
+      ³  ÃÄ@DIV1616  0/37  Ram=5
+      ³  ÃÄ@DIV1616  0/37  Ram=5
+      ³  ÃÄ@DIV1616  0/37  Ram=5
+      ³  ÃÄ@DIV1616  0/37  Ram=5
+      ³  ÃÄ@DIV1616  0/37  Ram=5
+      ³  ÃÄ@DIV1616  0/37  Ram=5
+      ³  ÃÄ@const894  0/15  Ram=0
+      ³  ÃÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄ@const894  0/15  Ram=0
+      ³  ÃÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄ@const894  0/15  Ram=0
+      ³  ÃÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄ@const894  0/15  Ram=0
+      ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ÃÄ@PRINTF_LD_9600_62_63  0/120  Ram=9
+      ÀÄdisplay  0/166  Ram=4
+         ÀÄ*

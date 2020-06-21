@@ -1,0 +1,90 @@
+004-005 @WRITE_PROGRAM_MEMORY8.P1
+004-005 @READ_PROGRAM_MEMORY8.P2
+015     CCP_1_LOW
+015     CCP_1
+016     CCP_1_HIGH
+01B     CCP_2_LOW
+01B     CCP_2
+01C     CCP_2_HIGH
+020-021 strtok.save
+022-025 _Randseed
+026-027 num
+028-029 tram
+02A-02B ngan
+02C-02D chuc
+02E-02F donvi
+030     @TRIS_C
+031-032 @PRINTF_LD_9600_62_63.P1
+031-032 display.num
+033     @delay_ms1.P1
+033     display.@SCRATCH1
+033     @PRINTF_LD_9600_62_63.@SCRATCH1
+034     display.@SCRATCH2
+034     @PRINTF_LD_9600_62_63.@SCRATCH2
+035-036 @DIV1616.P1
+035     @PRINTF_LD_9600_62_63.@SCRATCH3
+036     @PRINTF_LD_9600_62_63.@SCRATCH4
+037-038 @DIV1616.P1
+037     @PRINTF_LD_9600_62_63.@SCRATCH5
+038     @PRINTF_LD_9600_62_63.@SCRATCH6
+039     @DIV1616.@SCRATCH1
+039     @PRINTF_LD_9600_62_63.@SCRATCH7
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+107.6   C1OUT
+108.6   C2OUT
+10D-10E @WRITE_PROGRAM_MEMORY8.P1
+10D-10E @READ_PROGRAM_MEMORY8.P2
+
+ROM Allocation:
+000004  ma7doan.call
+000008  ma7doan.data
+000013  @DIV1616
+000038  @delay_ms1
+00004D  display
+0000F3  @PRINTF_LD_9600_62_63
+00016B  @cinit1
+00016B  MAIN
+00018C  @cinit2
+0136  StrtoulGO
+0136  StrtolGO
+
+Project Directory:
+    D:\DATA\src_git\Do an 2\test_doan\service_1\
+
+Project Files:
+    service_1.c                                             [21-Jun-20 10:10  CRC=2DC5E70E]
+    C:\Program Files (x86)\PICC\Devices\16F887.h            [18-Apr-14 16:56  CRC=42D047B0]
+    C:\Program Files (x86)\PICC\Drivers\stdlib.h            [08-Jun-11 14:39  CRC=0B6669CF]
+    C:\Program Files (x86)\PICC\Drivers\stddef.h            [16-Jul-10 09:27  CRC=897CEC6C]
+    C:\Program Files (x86)\PICC\Drivers\string.h            [10-Apr-14 09:04  CRC=662B2714]
+    C:\Program Files (x86)\PICC\Drivers\ctype.h             [03-Jan-08 13:55  CRC=2D1F019F]
+
+Source signature=C5E2AF4B
+
+Units:
+    service_1 (main)
+
+Compiler Settings:
+    Processor:      PIC16F887
+    Pointer Size:   16
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   service_1.xsym
+    Errors:      service_1.err
+    Ext Symbols: service_1.esym
+    INHX8:       service_1.hex
+    Symbols:     service_1.sym
+    List:        service_1.lst
+    Debug/COFF:  service_1.cof
+    Project:     service_1.ccspjt
+    Call Tree:   service_1.tre
+    Statistics:  service_1.STA
