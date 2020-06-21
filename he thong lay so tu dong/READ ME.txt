@@ -1,3 +1,0 @@
-hệ thống mô phỏng máy lấy số tự động, gồm 2 quầy service 1 và service 2, khi button tại các quầy được nhấn, số lượt nhấn từng quầy sẽ được hiển thị tại khối display, tổng số lần nhấn hiển thị ở khối ticket
-
-Lưu ý: mô phỏng chỉ mang tính mô tả sơ đồ kết nối và nguyên lý hoạt động, mô phỏng sử dụng chuẩn RS232 không thể kết nối nhiều module. Thực tế sử dụng chuẩn RS485
