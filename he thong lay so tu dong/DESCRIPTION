@@ -1,1 +1,0 @@
-hệ thống mô phỏng máy lấy số tự động, gồm 2 quầy service 1 và service 2, khi button tại các quầy được nhấn, số lượt nhấn từng quầy sẽ được hiển thị ở khối display, tổng số lượt nhấn sẽ hiển thị ở khối ticket
